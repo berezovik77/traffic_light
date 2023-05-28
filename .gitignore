@@ -1,0 +1,8 @@
+# XCELLIUM
+waves.shm/
+xcelium.d/
+.simvision/
+rtl.lst
+*.history
+*.log
+*.key
